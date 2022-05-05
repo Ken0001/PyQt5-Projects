@@ -1,0 +1,23 @@
+{
+    "Input":
+    {
+        "default_MAC": "d0:14:11:bf:ff:ff",
+        "target_SN": "BZ000NARD",
+        "FW_commit_id": "4272c951",
+        "start_MAC": "D0:14:11:B0:11:F4",
+        "ota_bin": "/home/pi/Documents/ota/STM32G030K8.bin",
+        "exe_OTA": false,
+        "exe_burn_in_MAC": false
+    },
+    "UI":
+    {
+    "SystemTimer": 60,
+	"MatchTimer":5,
+	"Resolution": [1920, 1080],
+	"InfoTitle":"系統資訊",
+	"ResultTitle":"狀態",
+    "MACTitle":"MAC",
+    "JSONTitle":"JSON",
+    "OTATitle":"OTA"
+    }
+}

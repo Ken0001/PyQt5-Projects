@@ -1,0 +1,12 @@
+{
+    "SystemTimer": 60,
+    "MatchTimer":5,
+    "Resolution": [1920, 1080],
+    "TargetTitle":"目標條碼",
+    "ScanTitle":"檢測條碼",
+    "ResultTitle":"比對結果",
+    "PrevDataTitle":"前一組資料",
+    "ResetTitle":"重設",
+    "ResetScanner":"掃描器",
+    "ResetAll":"欄位"
+}
